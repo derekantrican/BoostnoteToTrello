@@ -104,9 +104,9 @@ namespace BoostnoteToTrello
 
             AddContentToCard(GetTargetCard(targetCardId), noteTitle, noteContent, checkLists);
 
-            Console.WriteLine("\n-------------------------\n");
-            Console.WriteLine("\n-----------DONE----------\n");
-            Console.WriteLine("\n-------------------------\n");
+            Console.WriteLine("-------------------------");
+            Console.WriteLine("-----------DONE----------");
+            Console.WriteLine("-------------------------");
         }
 
         private static void ParseStartupArguments(string[] args)
