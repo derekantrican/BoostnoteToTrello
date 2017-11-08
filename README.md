@@ -12,7 +12,7 @@ The purpose of this program is to convert a Boostnote Markdown note into a Trell
 
 #### A couple notes:
 
-- The location of the Boostnote note is likely something similar to: `%userprofile%\Boostnote\notes\0a5de9a4c171eb481b05.cson` *(note that every note will have its own unique id and it can change sometimes too. Open the note in notepad or something similar to make sure you have the right noe)*
+- The location of the Boostnote note is likely something similar to: `%userprofile%\Boostnote\notes\0a5de9a4c171eb481b05.cson` *(note that every note will have its own unique id as its name and it can change sometimes too. Open the note in notepad or something similar to make sure you have the right one)*
 - You can find your Trello card id from the URL of the card. For instance, `https://trello.com/c/AzCNJbTG/393-welcome-to-boostnote` would mean your card id is `AzCNJbTG`
 
 
